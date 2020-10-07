@@ -1,12 +1,11 @@
 
-<!DOCTYPE html>
+
 <html>
 <body>
 
-<h1>The IMAGE element</h1>
-<h4>The IMAGE element</h4>
+<h1>The Payatu Technology</h1>
 
-<img src="https://github.com/CreativeKD/Portfolio/blob/main/UI%20Screens/Payatu_Service%20Page.jpg?raw=true" alt="Girl in a jacket" >
+<img src="https://github.com/CreativeKD/Portfolio/blob/main/UI%20Screens/Payatu_Service%20Page.jpg?raw=true"  >
 
 </body>
 </html>
