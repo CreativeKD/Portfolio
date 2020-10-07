@@ -6,7 +6,7 @@
 <h1>The IMAGE element</h1>
 <h4>The IMAGE element</h4>
 
-<img src="https://github.com/CreativeKD/Portfolio/blob/main/UI%20Screens/Payatu_Service%20Page.jpg?raw=true" alt="Girl in a jacket" width="500" height="600">
+<img src="https://github.com/CreativeKD/Portfolio/blob/main/UI%20Screens/Payatu_Service%20Page.jpg?raw=true" alt="Girl in a jacket" width="1366" height="10107">
 
 </body>
 </html>
